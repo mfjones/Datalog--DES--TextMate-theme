@@ -36,7 +36,7 @@
           "name": "support.constant.datalog",
           "match": "(\\'.*?\\'(,|\\)|$))|([a-z][A-Za-z0-9_]*)"
         }, {
-          "name": "support.variabl1e.datalog",
+          "name": "support.variable.datalog",
           "match": "([A-Z_][a-zA-Z]*)|(_)"
         }
       ],

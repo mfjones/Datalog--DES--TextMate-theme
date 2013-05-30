@@ -76,7 +76,7 @@
 					<key>match</key>
 					<string>([A-Z_][a-zA-Z]*)|(_)</string>
 					<key>name</key>
-					<string>support.variabl1e.datalog</string>
+					<string>support.variable.datalog</string>
 				</dict>
 			</array>
 		</dict>
