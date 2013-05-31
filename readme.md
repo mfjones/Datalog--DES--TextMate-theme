@@ -1,5 +1,13 @@
 ### TextMate Theme for Datalog (DES)
 
+====
+
+![screenshot](screenshot.png)
+
+The TextMate theme in Sublime Text 2. Color scheme: [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme), Font: [Source Code Pro](https://github.com/adobe/source-code-pro)
+
+====
+
 This is a TextMate Theme for Datalog. Simply import the `.tmLanguage` file into any of your text editors that support TextMate themes.
 
 A `.tmPreferences` file is also included. If you import this, it allows comments to be inserted via the general shortcut in the text editor.
