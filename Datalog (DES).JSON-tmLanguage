@@ -14,7 +14,7 @@
         },
         {
           "name": "support.constant.datalog",
-          "match": "(\\'.*?\\'(,|\\)|$))|([a-z][A-Za-z0-9_]*)"
+          "match": "(\\'.*?\\')|([a-z][A-Za-z0-9_]*)"
         }, {
           "name": "support.variable.datalog",
           "match": "([A-Z_][a-zA-Z]*)|(_)"
@@ -34,7 +34,7 @@
         },
         {
           "name": "support.constant.datalog",
-          "match": "(\\'.*?\\'(,|\\)|$))|([a-z][A-Za-z0-9_]*)"
+          "match": "(\\'.*?\\')|([a-z][A-Za-z0-9_]*)"
         }, {
           "name": "support.variable.datalog",
           "match": "([A-Z_][a-zA-Z]*)|(_)"
@@ -63,7 +63,7 @@
       "comment": "foo"
     },
     {
-      "match": "\\'.*?\\'(,|\\)|$)",
+      "match": "\\'.*?\\'",
       "name": "string.quoted.single.datalog",
       "comment": "'foo bar', '2*3'"
     },
