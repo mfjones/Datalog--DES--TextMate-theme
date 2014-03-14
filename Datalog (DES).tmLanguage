@@ -50,7 +50,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>(\'.*?\'(,|\)|$))|([a-z][A-Za-z0-9_]*)</string>
+					<string>(\'.*?\')|([a-z][A-Za-z0-9_]*)</string>
 					<key>name</key>
 					<string>support.constant.datalog</string>
 				</dict>
@@ -85,7 +85,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>(\'.*?\'(,|\)|$))|([a-z][A-Za-z0-9_]*)</string>
+					<string>(\'.*?\')|([a-z][A-Za-z0-9_]*)</string>
 					<key>name</key>
 					<string>support.constant.datalog</string>
 				</dict>
@@ -133,7 +133,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 			<key>comment</key>
 			<string>'foo bar', '2*3'</string>
 			<key>match</key>
-			<string>\'.*?\'(,|\)|$)</string>
+			<string>\'.*?\'</string>
 			<key>name</key>
 			<string>string.quoted.single.datalog</string>
 		</dict>
